@@ -1,0 +1,6 @@
+{
+  "name": "BrainForge - Cognitive Training SaaS",
+  "description": "Daily gamified cognitive challenges across memory, logic, pattern recognition, and speed with real-time scoring and XP progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
